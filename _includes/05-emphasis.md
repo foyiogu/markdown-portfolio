@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I can **sing** and _dance_
+- I am also a __java__ developer :sparkles:
