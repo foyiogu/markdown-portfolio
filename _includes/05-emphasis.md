@@ -1,0 +1,2 @@
+- I can **sing** and _dance_
+- I am also a __java__ developer :sparkles:
